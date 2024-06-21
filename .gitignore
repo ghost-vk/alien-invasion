@@ -1,6 +1,10 @@
 .DS_Store
 **/*.swp
 
+# demo gif preparation
+docs/demo.mp4
+docs/palette.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
