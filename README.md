@@ -6,7 +6,9 @@ Pygame. In this game, you control a spaceship at the bottom of the screen,
 shooting at waves of aliens moving from side to side and gradually descending
 toward you.
 
-<video src="./docs/demo.png">
+<video controls autoplay loop muted>
+  <source src="./docs/demo.mp4" type="video/mp4">
+</video>
 
 ## Features
 
